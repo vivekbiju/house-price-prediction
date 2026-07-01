@@ -2,8 +2,6 @@
 
 A machine learning web application that predicts house prices using **XGBoost** and **Streamlit**.
 
-## 🚀 Live Demo
-[Link to your Streamlit App]
 
 ## 📊 Project Overview
 This project uses the Ames Housing Dataset to predict market values based on key features like square footage, overall quality, and neighborhood. It features an interactive dashboard with real-time price trends.
