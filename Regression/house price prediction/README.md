@@ -13,7 +13,7 @@ This project uses the Ames Housing Dataset to predict market values based on key
 - **Plots:** Matplotlib
 
 ## ⚙️ How to Run Locally
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/vivekbiju/house-price-prediction/tree/main/Regression/house%20price%20prediction.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
